@@ -1,5 +1,23 @@
-
+[
+  {
+    "type": "folder",
+    "addDate": 1704165707359,
+    "title": "收藏夹栏",
     "children": [
+      {
+        "type": "link",
+        "addDate": 1659576730000,
+        "title": "",
+        "icon": "https://logo.clearbit.com/www.yuque.com",
+        "url": "https://www.yuque.com/dashboard"
+      },
+      {
+        "type": "link",
+        "addDate": 1700187967927,
+        "title": "",
+        "icon": "https://logo.clearbit.com/chat.openai.com",
+        "url": "https://chat.openai.com/"
+      },
       {
         "type": "folder",
         "addDate": 1700538149960,
